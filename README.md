@@ -1,4 +1,4 @@
-# exercicios-basicos-java
+# Exercicios-basicos-java
 
 Exercícios que vim fazendo durante meu aprendizado em Java
 
@@ -31,3 +31,6 @@ Inserir dois números inteiro e informe o resultado das operações: soma, subtr
 
 ## Exercício dez:
 Conversão do peso de Kgs para Libras
+
+## Exercício onze:
+Cálculo de baaskara
