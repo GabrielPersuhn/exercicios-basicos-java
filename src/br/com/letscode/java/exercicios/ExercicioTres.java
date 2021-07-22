@@ -4,17 +4,15 @@ import java.util.Scanner;
 
 public class ExercicioTres {
     public static void main(String[] args) {
+
+        System.out.println("Insira 5 numeros (separados pelo enter) para evr quais são ímpares e quais são pares:");
         int[] numeros = new int[5];
         Scanner input = new Scanner(System.in);
         int[] numerosPares = new int[5];
         int[] numerosImpares = new int[5];
         int numPar = 0;
         int numImpar = 0;
-        /*int num1 = 0;
-        while (num1 < 5) {
-            numeros[num1] = input.nextInt();
-            num1++;
-        }*/
+
         for (int i = 0; i < 5; i++) {
             numeros[i] = input.nextInt();
             if (numeros[i] % 2 != 0) {
